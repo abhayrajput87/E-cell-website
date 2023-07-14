@@ -1,9 +1,15 @@
-
+import Hero from "./components/Home/Hero";
+import Navbar from "./components/Navbar";
+import AboutUs from "./components/Home/AboutUs";
+import Vision from "./components/Home/Vision";
 function App() {
   return (
-    <div className="App">
-      <h1 className=" text-red-600" >Hello from the client!!</h1>
-    
+    <div className="">
+      <Navbar/>
+      <Hero/>
+      <AboutUs/>
+      <Vision/>
+      
     </div>
   );
 }
