@@ -6,6 +6,7 @@ import Passion from "./components/Home/Passion";
 import Achievements from "./components/Home/Achievements";
 import Partners from "./components/Home/Partners";
 import Touch from "./components/Home/Touch";
+import Footer from "./components/Home/Footer";
 function App() {
   return (
     <div className="">
@@ -17,6 +18,7 @@ function App() {
       <Achievements/>
       <Partners/>
       <Touch/>
+      <Footer/>
       
     </div>
   );
