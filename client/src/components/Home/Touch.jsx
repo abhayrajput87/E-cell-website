@@ -32,7 +32,7 @@ function Touch() {
                 </div>
                 <div>
                     <p className='text-sm font-bold text-[#145566]' >message</p>
-                    <p>Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, laboriosam. ipsum dolor sit amet consectetur adipisicing elit. Inventore quo hic et dolor tempore, eligendi quas dolore ad. Sit commodi, rerum quas perspiciatis impedit expedita sapiente placeat temporibus amet praesentium est dolor tempora debitis dignissimos itaque delectus, ullam veniam, nulla enim ratione. Fugiat, doloribus quam obcaecati necessitatibus cupiditate dolorum modi!</p>
+                    <p>Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur praesentium pariatur natus reiciendis facilis nesciunt tempora dolorem doloribus consectetur soluta!</p>
                     <div className='' />
                 </div>
                

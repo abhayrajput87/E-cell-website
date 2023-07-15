@@ -11,7 +11,7 @@ function Vision() {
             <div className='border-[1.5px] h-[95%] rounded-lg border-[#237186]' ></div>
             <p className='py-1 text-gray-400 ' >Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sint distinctio eius ipsam voluptatum vitae architecto dolorum quidem blanditiis? Temporibus corrupti quae provident error nobis ducimus officia ullam placeat esse? </p>
             </div>
-            <div className='w-[300px]  md:w-[500px] relative bg-[#151515] py-3 pl-16 rounded-md mt-8 ' >
+            <div className='w-full relative bg-[#151515] py-3 pl-16 rounded-md mt-8 ' >
                 <div>
                   <h1 className='text-white uppercase text-xl ' >Lorem, ipsum dolor.</h1>
                   <p className='text-gray-400 w-[95%] ' > Lorem ipsum dolor sit amet. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae quos quidem quis debitis ducimus similique! </p>

@@ -7,6 +7,7 @@ import Achievements from "./components/Home/Achievements";
 import Partners from "./components/Home/Partners";
 import Touch from "./components/Home/Touch";
 import Footer from "./components/Home/Footer";
+import Rights from "./components/Home/Rights";
 function App() {
   return (
     <div className="">
@@ -19,6 +20,7 @@ function App() {
       <Partners/>
       <Touch/>
       <Footer/>
+      <Rights/>
       
     </div>
   );

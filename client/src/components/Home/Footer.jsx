@@ -6,15 +6,15 @@ import {BiLogoFacebookCircle} from 'react-icons/bi'
 
 function Footer() {
   return (
-    <div className=' text-white mx-auto max-w-[1200px] md:px-32 px-2 sm:px-8 py-8 grid grid-cols-2 gap-4 sm:gap-8'>
+    <div className=' text-white mx-auto max-w-[1200px] md:px-32  sm:px-8 px-4 py-8 grid grid-cols-3 sm:grid-cols-2 gap-8 sm:gap-8'>
     <div className='' >
-         <h1 className='text-2xl font-bold' >E-cell</h1>
+         <h1 className='text-2xl font-bold pb-2' >E-cell</h1>
          <p>Lorem ipsum, dolor sit amet </p>
     </div>
-    <div className='w-full flex justify-between' >
-    <div className='space-y-2' >
+    <div className='w-full flex justify-between col-span-2 sm:col-span-1 ' >
+    <div className='space-y-4' >
       <h3 className='font-semibold text-[15px]' >Quick Links</h3>
-      <ul className='space-y-2 text-[13px]' >
+      <ul className='space-y-4 text-[13px]' >
       <li>Home</li>
       <li>Initiatives</li>
       <li>Galery</li>
@@ -22,7 +22,7 @@ function Footer() {
       <li>Merchandise</li>
       </ul>
     </div>
-    <div className='space-y-2 text-right sm:text-left ' >  
+    <div className='space-y-4 text-right sm:text-left ' >  
       <h3 className='text-[15px] font-semibold' >ContactUs</h3>
       <div>
         <p className='text-[13px]' >Phone</p>

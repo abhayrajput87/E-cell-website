@@ -16,8 +16,6 @@ function Partners() {
         <div className='text-gray-400 bg-[#2c2c2c] py-12 flex justify-center space-x-4 ' >
             <p className='rounded-lg py-4 px-6 bg-[#151515] ' >Partner</p>
             <p className='rounded-lg py-4 px-6 bg-[#151515] ' >Partner</p>
-            <p className='rounded-lg py-4 px-6 bg-[#151515] ' >Partner</p>
-           
         </div>
 
    

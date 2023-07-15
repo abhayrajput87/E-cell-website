@@ -13,7 +13,7 @@ function Navbar() {
 
 
   return (
-    <div className='  w-full md:px-32 px-8 text-white flex justify-between items-center h-24' >
+    <div className='  w-full md:px-20 px-8 text-white flex justify-between items-center h-24' >
         <h1 className='text-xl font-black' >E-Cell</h1>
         <div className='hidden md:flex space-x-6 items-center' >
             
