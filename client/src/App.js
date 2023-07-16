@@ -8,6 +8,7 @@ import Partners from "./components/Home/Partners";
 import Touch from "./components/Home/Touch";
 import Footer from "./components/Home/Footer";
 import Rights from "./components/Home/Rights";
+import Gallery from "./components/Gallery/Gallery"
 function App() {
   return (
     <div className="">
@@ -20,8 +21,8 @@ function App() {
       <Partners/>
       <Touch/>
       <Footer/>
-      <Rights/>
-      
+      <Rights/> 
+
     </div>
   );
 }

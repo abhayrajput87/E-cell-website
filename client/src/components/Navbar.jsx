@@ -25,7 +25,7 @@ function Navbar() {
             <li>Blog</li>
             <li>Merchandise</li>
         </ul>
-        <button className=' bg-[#145566]  py-2 w-[150px] rounded-md text-white border-lg font-bold' >Get Started</button>
+        <button className=' hover:scale-105 hover:border-red-900  hover:ease-in-out hover:delay-0 bg-[#145566]  py-2 w-[150px] rounded-md text-white border-lg font-bold' >Get Started</button>
         </div>
 
         <div className='p-4 block md:hidden ' onClick={handleNav} >
