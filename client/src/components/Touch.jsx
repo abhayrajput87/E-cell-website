@@ -1,5 +1,5 @@
 import React from 'react'
-import touchImg from '../../Assets/touch.jpg'
+import touchImg from '../Assets/touch.jpg'
 
 function Touch() {
   return (
