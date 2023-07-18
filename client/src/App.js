@@ -1,8 +1,17 @@
+import Footer from './components/Footer';
+import Navbar from './components/Navbar'
+import Touch from './components/Touch'
+import Rights from './components/Rights'
 
 function App() {
   return (
     <div className="App">
-      <h1 className=" text-red-600" >Hello from the client!!</h1>
+
+    
+      <Navbar/>
+      <Touch/>
+      <Footer/>
+      <Rights/>
     
     </div>
   );
