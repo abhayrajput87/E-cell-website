@@ -1,0 +1,21 @@
+.Image1{
+    min-height:400px;
+    background-image: url(img/image\ 64.png);
+    background-size: contain;}
+
+.Image2{
+    background-image: url(img/highilights.png);
+    background-size: contain;
+}
+
+.Image3{
+    height: 300px;
+    background-image: url(img/image\ 65.png);
+    background-size: contain;
+}
+
+.Image4{
+    height: 300px;
+    background-image: url(img/image\ 67.png);
+    background-size: contain;
+}
